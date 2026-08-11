@@ -116,12 +116,12 @@ Python-based simulator visualizing network topologies, packet flow, and IP/TCP/U
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdelrhman-Mohamedd&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=3600"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman-Mohamedd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=3600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdelrhman-Mohamedd&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=3600&v=1786476571"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman-Mohamedd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=3600&v=1786476571"/>
 
 <img src="https://streak-stats.demolab.com/?user=Abdelrhman-Mohamedd&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&cache_seconds=3600" width="48%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman-Mohamedd&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=3600" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman-Mohamedd&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=3600&v=1786476571" width="90%"/>
 
 </div>
 
