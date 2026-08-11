@@ -129,41 +129,11 @@ Python-based simulator visualizing network topologies, packet flow, and IP/TCP/U
 
 ## 🐍 Contribution Snake
 
-> Add the workflow below at `.github/workflows/snake.yml` in this repo to generate an animated snake that eats your contribution graph, then reference the output image here.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abdelrhman-Mohamedd/Abdelrhman-Mohamedd/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+</div>
 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Abdelrhman-Mohamedd
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once the `output` branch exists, embed it here:
-
-```markdown
-![snake](https://raw.githubusercontent.com/Abdelrhman-Mohamedd/Abdelrhman-Mohamedd/output/github-contribution-grid-snake-dark.svg)
-```
+<sub>This animation is generated automatically every day by the <code>.github/workflows/snake.yml</code> GitHub Action, which eats through your contribution graph and publishes the SVG to the <code>output</code> branch. It will render as soon as the workflow runs for the first time (triggers automatically on push, or manually from the Actions tab).</sub>
 
 ---
 
@@ -180,4 +150,3 @@ Once the `output` branch exists, embed it here:
 <div align="center">
 <sub>"In a world of encrypted secrets, be the one who reads between the packets." 🛡️</sub>
 </div>
-</content>
