@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff41&height=260&section=header&text=Abdelrhman%20Mohamed&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Digital%20Forensics%20%7C%20Instructor&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,50:12365c,100:00B4FF&height=260&section=header&text=Abdelrhman%20Mohamed&fontSize=42&fontColor=00B4FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Digital%20Forensics&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Abdelrhman-Mohamedd">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=SOC+Analyst+(Tier+1)+%7C+Blue+Team;Digital+Forensics+%26+Incident+Response;Malware+Analysis+%2B+ML+YARA+Rule+Generation;Linux+VM+Lab+Architect+(Rocky%2FUbuntu%2FKali);Cybersecurity+Instructor+%26+Lab+Designer;%22The+Blue+Warrior+does+not+concern+himself+with+git+conflicts%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=650&lines=SOC+Analyst+(Tier+1)+%7C+Blue+Team;Digital+Forensics+%26+Incident+Response;Malware+Analysis;%22The+Blue+Warrior+does+not+concern+himself+with+git+conflicts%22" alt="Typing SVG" />
 </a>
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelrhman-Mohamedd&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Abdelrhman-Mohamedd?label=Followers&style=for-the-badge&color=00ff41&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Status-Hunting%20Threats-black?style=for-the-badge&logo=target&color=00ff41" alt="status"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdelrhman-Mohamedd&label=Profile%20Views&color=00B4FF&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Abdelrhman-Mohamedd?label=Followers&style=for-the-badge&color=00B4FF&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Hunting%20Threats-black?style=for-the-badge&logo=target&color=00B4FF" alt="status"/>
 </p>
 
 ---
@@ -22,9 +22,6 @@
 $ cat about_me.txt
 ```
 - 🛡️ SOC Analyst (Tier 1) working hands-on with **Velociraptor**, **Autopsy**, and **Snort IDS/IPS**
-- 🔬 Building and automating **Linux VM lab environments** (Rocky Linux, Ubuntu, Kali) for cybersecurity training
-- 🧪 Researching **ML-driven malware detection** and automated YARA rule generation
-- 🎓 Designing labs, exams, and technical documentation as a cybersecurity **instructor**
 - 📍 Based in Cairo, Egypt
 - ⚡ Fun fact: I automate everything I do more than twice
 
@@ -45,16 +42,13 @@ $ cat about_me.txt
 ![Snort](https://img.shields.io/badge/Snort-IDS%2FIPS-FF6C37?style=for-the-badge&logo=snort&logoColor=white)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-DFIR-black?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-Malware%20Rules-red?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Pentesting-red?style=for-the-badge&logo=metasploit&logoColor=white)
 
 **Systems & Platforms**
 
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **Dev & Automation**
 
@@ -75,32 +69,16 @@ $ cat about_me.txt
 <tr>
 <td width="50%">
 
-### 🧬 [Automatic ML YARA Rule Generation](https://github.com/Abdelrhman-Mohamedd/Automatic-ML-YARA-Rule-Generation)
-Machine-learning pipeline that automatically generates YARA rules for malware detection — bridging ML research and practical malware analysis.<br/>
-`Python` `Machine Learning` `Malware Analysis`
-
-</td>
-<td width="50%">
-
 ### 🕵️ [Vulnerability Predictor Agent](https://github.com/Abdelrhman-Mohamedd/Vulnerability_Predictor_Agent)
 An intelligent agent built to analyze and predict system vulnerabilities, supporting proactive security assessment.<br/>
 `Python` `Security Automation`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💻 [EHPT_01 — Ethical Hacking & Pen Testing Lab](https://github.com/Abdelrhman-Mohamedd/EHPT_01)
-Shell-scripted lab environment for ethical hacking and penetration testing exercises — built for repeatable, hands-on training scenarios.<br/>
-`Shell` `Pentesting` `Lab Automation`
-
-</td>
 <td width="50%">
 
 ### 🌐 [Network Simulator](https://github.com/Abdelrhman-Mohamedd/Network-Simulator)
-Python-based simulator visualizing network topologies, packet flow, and IP/TCP/UDP protocols — designed for teaching networking fundamentals.<br/>
-`Python` `Networking` `Education`
+Python-based simulator visualizing network topologies, packet flow, and IP/TCP/UDP protocols.<br/>
+`Python` `Networking`
 
 </td>
 </tr>
@@ -116,7 +94,7 @@ Python-based simulator visualizing network topologies, packet flow, and IP/TCP/U
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Abdelrhman-Mohamedd&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&cache_seconds=3600" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Abdelrhman-Mohamedd&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00B4FF&fire=00B4FF&currStreakLabel=00B4FF&cache_seconds=3600" width="48%"/>
 
 </div>
 
@@ -140,7 +118,7 @@ Python-based simulator visualizing network topologies, packet flow, and IP/TCP/U
   <a href="https://tryhackme.com/p/Mister.A"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,100:0a1929&height=120&section=footer" width="100%"/>
 
 <div align="center">
 <sub>"In a world of encrypted secrets, be the one who reads between the packets." 🛡️</sub>
